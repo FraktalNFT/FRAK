@@ -62,7 +62,7 @@ contract FrakToken is ERC20Interface, SafeMath {
         symbol = "FRAK";
         name = "Fraktal";
         decimals = 18;
-        _totalSupply = 10000000000000000000000000000;
+        _totalSupply = 1000000000000000000000000000;
         balances[0x57BbDb1041DDbb1174F509C5C54c989B6F6f0baF] = 350000000000000000000000000;
         balances[0xA31b92E81318248958d8eaa691Cc8919ad7Af68F] = 350000000000000000000000000;
         balances[0xbA7Ca3f921eAfE0De5B4C024A714067D28Da3fb3] = 200000000000000000000000000;
