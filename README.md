@@ -3,6 +3,6 @@ FRAK (Fraktal DAO Token)
 
 Network: Ethereum
 Type: ERC-20
-Max Supply: 10,000,000,000 (10 Billion)
+Max Supply: 1,000,000,000 (1 Billion)
 Decimals: 18
 Symbol: FRAK
